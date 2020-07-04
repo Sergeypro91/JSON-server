@@ -1,0 +1,96 @@
+{
+  "genres": [
+    {
+      "id": 0,
+      "genre_id": 0,
+      "genre_name": "Horror",
+      "items": [
+        {
+          "id": 0,
+          "titile": "Horror book 1",
+          "date_add": "2020-06-25 13:39:00.000",
+          "author_last_name": "Shevtsov",
+          "author_first_name": "Sergey",
+          "author_mid_name": "Eduardovich"
+        },
+        {
+          "id": 1,
+          "titile": "0",
+          "date_add": "2020-07-04 21:56:15.934",
+          "author_last_name": "0",
+          "author_first_name": "0",
+          "author_mid_name": "0"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "genre_id": 1,
+      "genre_name": "Action",
+      "items": [
+        {
+          "id": 0,
+          "titile": "Action book 1",
+          "date_add": "2020-07-04 13:39:00.000",
+          "author_last_name": "Shevtsov",
+          "author_first_name": "Sergey",
+          "author_mid_name": "Eduardovich"
+        },
+        {
+          "id": 1,
+          "titile": "Action book 3",
+          "date_add": "2020-07-04 22:5:57.219",
+          "author_last_name": "Shev",
+          "author_first_name": "Ser",
+          "author_mid_name": "Ed"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "genre_id": 2,
+      "genre_name": "Love",
+      "items": [
+        {
+          "id": 0,
+          "titile": "Love book 1",
+          "date_add": "2020-07-04 13:39:00.000",
+          "author_last_name": "Shevtsov",
+          "author_first_name": "Sergey",
+          "author_mid_name": "Eduardovich"
+        },
+        {
+          "id": 1,
+          "titile": "Test",
+          "date_add": "2020-07-04 21:57:2.925",
+          "author_last_name": "Ser",
+          "author_first_name": "Shev",
+          "author_mid_name": "Ed"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "genre_id": 3,
+      "genre_name": "Histori",
+      "items": [
+        {
+          "id": 0,
+          "titile": "Histori book 1",
+          "date_add": "2020-07-04 13:39:00.000",
+          "author_last_name": "Shevtsov",
+          "author_first_name": "Sergey",
+          "author_mid_name": "Eduardovich"
+        },
+        {
+          "id": 1,
+          "titile": "Histori 2",
+          "date_add": "2020-07-04 22:08:05.145",
+          "author_last_name": "Shevtsov",
+          "author_first_name": "Sergey",
+          "author_mid_name": "Eduard"
+        }
+      ]
+    }
+  ]
+}
