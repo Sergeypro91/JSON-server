@@ -20,6 +20,14 @@
           "author_last_name": "0",
           "author_first_name": "0",
           "author_mid_name": "0"
+        },
+        {
+          "id": 2,
+          "titile": "1",
+          "date_add": "2020-07-05 19:35:14.591",
+          "author_last_name": "2",
+          "author_first_name": "3",
+          "author_mid_name": "4"
         }
       ]
     },
@@ -66,6 +74,38 @@
           "author_last_name": "Ser",
           "author_first_name": "Shev",
           "author_mid_name": "Ed"
+        },
+        {
+          "id": 2,
+          "titile": "Test",
+          "date_add": "2020-07-04 21:57:2.925",
+          "author_last_name": "Ser",
+          "author_first_name": "Shev",
+          "author_mid_name": "Ed"
+        },
+        {
+          "id": 3,
+          "titile": "Test",
+          "date_add": "2020-07-04 21:57:2.925",
+          "author_last_name": "Ser",
+          "author_first_name": "Shev",
+          "author_mid_name": "Ed"
+        },
+        {
+          "id": 4,
+          "titile": "Test",
+          "date_add": "2020-07-04 21:57:2.925",
+          "author_last_name": "Ser",
+          "author_first_name": "Shev",
+          "author_mid_name": "Ed"
+        },
+        {
+          "id": 5,
+          "titile": "Test",
+          "date_add": "2020-07-04 21:57:2.925",
+          "author_last_name": "Ser",
+          "author_first_name": "Shev",
+          "author_mid_name": "Ed"
         }
       ]
     },
@@ -89,6 +129,14 @@
           "author_last_name": "Shevtsov",
           "author_first_name": "Sergey",
           "author_mid_name": "Eduard"
+        },
+        {
+          "id": 2,
+          "titile": "Я манипулирую тобой. Методы противодействия скрытому влиянию",
+          "date_add": "2020-07-05",
+          "author_last_name": "Непряхин",
+          "author_first_name": "Никита",
+          "author_mid_name": "Юрьевич"
         }
       ]
     }
